@@ -1,0 +1,1 @@
+# TemplateWindowsService-DotNet-5
